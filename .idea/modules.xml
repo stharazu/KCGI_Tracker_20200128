@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/locationtrackerapplication-ce936d66e67800acb008aa6b4e1a18b84e91121d.iml" filepath="$PROJECT_DIR$/locationtrackerapplication-ce936d66e67800acb008aa6b4e1a18b84e91121d.iml" />
+    </modules>
+  </component>
+</project>
